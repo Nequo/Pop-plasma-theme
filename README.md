@@ -1,5 +1,6 @@
 # Pop-plasma: A Plasma port of the Pop!OS gtk theme
 
+![Pop-firefox](assets/firefox-pop.png)
 I couldn't find matching window decorations for the Pop!OS theme on plasma so I decided to make my own. The colorscheme is based on the work of adomas that can be found [Here](https://store.kde.org/p/1202406/).
 
 The window decorations are a slight modification of the [adapta theme](https://github.com/PapirusDevelopmentTeam/adapta-kde)
@@ -18,4 +19,4 @@ Download the files from this repository. You can either place the files or link 
 
 - Disable the box saying "Apply colors to non-QT applications from the color settings. This will help with menus being unreadable.
 - Use along the pop-gtk-theme for a consistent look
-
+- Use the Arc-Color desktop theme which matches plasma colors to the desktop theme. It comes installed with the arc-kde package.
