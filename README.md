@@ -1,6 +1,8 @@
 # Pop-plasma: A Plasma port of the Pop!OS gtk theme
 
 ![Pop-firefox](assets/firefox-pop.png)
+![Pop-dolphin](assets/dolphin-pop.png)
+
 I couldn't find matching window decorations for the Pop!OS theme on plasma so I decided to make my own. The colorscheme is based on the work of adomas that can be found [Here](https://store.kde.org/p/1202406/).
 
 The window decorations are a slight modification of the [adapta theme](https://github.com/PapirusDevelopmentTeam/adapta-kde)
